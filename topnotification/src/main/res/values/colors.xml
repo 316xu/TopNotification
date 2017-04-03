@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#bebebe</color>
+    <color name="colorPrimaryDark">#939393</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <color name="gray_1">#e4e4e4</color>
+    <color name="gray_2">#dcdcdc</color>
+
+    <color name="notification_info">#bdedfc</color>
+    <color name="notification_warning">#fcf4bd</color>
+    <color name="notification_error">#fcbdbd</color>
+    <color name="notification_correct">#bdfcbf</color>
+
+    <color name="notification_info_darker">#40a9c9</color>
+    <color name="notification_warning_darker">#b1a452</color>
+    <color name="notification_error_darker">#c24e4e</color>
+    <color name="notification_correct_darker">#1ca420</color>0
+
+    <color name="transparent_gray">#ac202020</color>
+
+    <array name="notification_background_color">
+        <item>@color/notification_info</item>
+        <item>@color/notification_warning</item>
+        <item>@color/notification_error</item>
+        <item>@color/notification_correct</item>
+    </array>
+</resources>
